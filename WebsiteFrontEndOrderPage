@@ -83,7 +83,8 @@
   <input type="radio" id="JalapenoPeppers" name="Toppings" value="JalapenoPeppers">
   <label for="JalapenoPeppers">Jalapeno Peppers</label><br>
   <label for="SpecialInstructions">Special Instructions</label><br>
-  <input style="height:100px;font-size:10pt;width:400px;" type="text" id="SpecialInstructions" name="SpecialInstructions"> 
+  <textarea style="height:100px;font-size:10pt;width:400px;" id="SpecialInstructions" name="SpecialInstructions">
+  </textarea>
 </form> 
 
 </body>
